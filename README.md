@@ -1,3 +1,12 @@
-## Welcome to GitHub Pages
+# [plankryzysowy.pl](https://www.plankryzysowy.pl/)
 
-You can use the [editor on GitHub](https://github.com/planowanie/plankryzysowy-pl/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Plan kryzysowy w odróżnieniu od [planu awarayjnego](https://www.planawaryjny.pl/) dotyczy całego środowiska, organizacji, ...
+
+W jaki spoósb wykorzystując obecną politykę wrócić do dawno zapomnianych wartości?
+
+Jakie ograniczenia można zwalczyć, a jakie trzeba skutecznie omijać?
+
+W tym opracowaniu odpowiemy na pytania.
+
+Dalszy ciąg już niedługo ...
+
