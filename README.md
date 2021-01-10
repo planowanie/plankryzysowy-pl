@@ -17,4 +17,27 @@ szeroko a nie wąsko wyspecjalizowane oraz wysoko a nie nisko wykształcone.
 pozwalające na dobór rozwiązania do aktualnej sytuacji
 
 
+
+
+# Rozwiązania systemowe
+
+## Rozliczenia
++ płatności barterowe
++ rozliczenia czasowe
++ NonFiat / NonCrypto
+
+## Media
+
+
+## Energetyka
++ 
++ słoneczne, Fotowoltaika
++ wodne
++ nadwyżki w innych krajach
+
+
+## Lobbing
+
+
+
 Dalszy ciąg już niedługo ...
